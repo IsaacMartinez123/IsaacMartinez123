@@ -4,13 +4,14 @@
   <img src="https://media.licdn.com/dms/image/D4E16AQFg5fnXYN73cQ/profile-displaybackgroundimage-shrink_350_1400/0/1686102132065?e=1691625600&v=beta&t=m5iTvKMb0KDEhVn9OopcgbY5Q8oIIiWxX0Ec286ktts" alt="Banner">
 </p>
 
-<h4 align="center">Soy desarrollador Full-Stack, muy apasionado por la tecnología y me motiva siempre mejorar los conocimientos que tengo en ella, ya que ha sido mi enfoque desde que comencé en este mundo del desarrollo, y ver lo fascinante que es tener la habilidad/capacidad de crear aplicativos que sean útiles para solucionar un problema o necesidad. 
+<h4 align="center">Soy Isaac, un desarrollador Full-Stack apasionado por la tecnología y con un gran deseo de seguir aprendiendo en esta area. Desde que comencé en el mundo del desarrollo, mi enfoque ha sido adquirir la habilidad y capacidad para crear aplicativos que resuelvan problemas y satisfagan necesidades, esto es algo que me fascina y motiva profundamente.
  </h4>
 
-<h4 align="center">Me destaco por ser bastante empático y colaborativo a la hora de participar en un equipo de proyecto, además cuento con conocimientos en metodologías agiles, específicamente en scrum.</h4>
+<h4 align="center"Me destaco por ser bastante empático y colaborativo a la hora de participar en un equipo de proyecto, además cuento con conocimientos en metodologías agiles, específicamente en scrum.</h4>
 
-<h4 align="center">Mis principales tecnologías son: React, Laravel y Postges, ya que estas me han permitido llevar a cabo varios proyectos con los cuales afronté y superé diversas dificultades, obteniendo así, un mejor crecimiento como desarrollador. Mi objetivos es dar con una empresa que pueda brindarme un crecimiento constante y entornos dinámicos de aprendizaje, que me permitan crecer tanto personal como profesionalmente y poder contribuir al crecimiento tecnológico que tanto me apasiona</h4>
+<h4 align="center">Mis principales tecnologías son: React, Laravel y Postges, ya que estas me han permitido llevar a cabo varios proyectos con los cuales afronté y superé diversas dificultades, obteniendo así, un mejor crecimiento como desarrollador.</h4>
 
+<h4 align="center">Mi objetivos es dar con una empresa que me pueda pueda brindar un crecimiento constante y entornos dinámicos de aprendizaje, que me permitan crecer tanto personal como profesionalmente y poder contribuir al crecimiento tecnológico que tanto me apasiona.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmartinez123&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmartinez123" /> </p>
 
 - 📫 Cómo contactarme **isaacsenatecnica123@gmail.com**
