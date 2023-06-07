@@ -1,11 +1,10 @@
 <h1 align="center">Hola 👋, soy Isaac Martinez Isaza</h1>
-<h3 align="center">Soy un desarrollador Full-Stack apasionado por la tecnología, siempre motivado por mejorar mis conocimientos en este campo. Desde que ingresé al mundo del desarrollo, me he enfocado en aprender y apreciar lo fascinante que es crear aplicaciones que resuelvan problemas y necesidades. Me destaco por ser empático y colaborativo, lo cual me permite trabajar de manera efectiva en equipos de proyecto. Además, tengo experiencia en metodologías ágiles, especialmente en Scrum.
+<h3 align="center">Soy desarrollador Full-Stack, muy apasionado por la tecnología y me motiva siempre mejorar los conocimientos que tengo en ella, ya que ha sido mi enfoque desde que comencé en este mundo del desarrollo, y ver lo fascinante que es tener la habilidad/capacidad de crear aplicativos que sean útiles para solucionar un problema o necesidad. 
+ </h3>
 
-  
-Mis principales tecnologías son React, Laravel y PostgreSQL, las cuales me han permitido realizar diversos proyectos y superar desafíos. Estos proyectos han contribuido a mi crecimiento como desarrollador. 
-  
-Mi objetivo es unirme a una empresa que ofrezca un crecimiento constante y un entorno de aprendizaje dinámico. Aspiro a crecer tanto personal como profesionalmente, y aportar al avance tecnológico que tanto me apasiona. Siempre estoy en busca de nuevas oportunidades para seguir evolucionando en mi carrera.</h3>
+<h3 align="center">Me destaco por ser bastante empático y colaborativo a la hora de participar en un equipo de proyecto, además cuento con conocimientos en metodologías agiles, específicamente en scrum.</h3>
 
+<h3 align="center">Mis principales tecnologías son: React, Laravel y Postges, ya que estas me han permitido llevar a cabo varios proyectos con los cuales afronté y superé diversas dificultades, obteniendo así, un mejor crecimiento como desarrollador. Mi objetivos es dar con una empresa que me pueda pueda brindar un crecimiento constante y entornos dinámicos de aprendizaje, que me permitan crecer tanto personal como profesionalmente y poder contribuir al crecimiento tecnológico que tanto me apasiona</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmartinez123&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmartinez123" /> </p>
 
 - 📫 Cómo contactarme **isaacsenatecnica123@gmail.com**
