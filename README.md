@@ -9,7 +9,7 @@
 
 <h4 align="center">Me destaco por ser bastante empático y colaborativo a la hora de participar en un equipo de proyecto, además cuento con conocimientos en metodologías agiles, específicamente en scrum.</h4>
 
-<h4 align="center">Mis principales tecnologías son: React, Laravel y Postges, ya que estas me han permitido llevar a cabo varios proyectos con los cuales afronté y superé diversas dificultades, obteniendo así, un mejor crecimiento como desarrollador. Mi objetivos es dar con una empresa que me pueda pueda brindar un crecimiento constante y entornos dinámicos de aprendizaje, que me permitan crecer tanto personal como profesionalmente y poder contribuir al crecimiento tecnológico que tanto me apasiona</h4>
+<h4 align="center">Mis principales tecnologías son: React, Laravel y Postges, ya que estas me han permitido llevar a cabo varios proyectos con los cuales afronté y superé diversas dificultades, obteniendo así, un mejor crecimiento como desarrollador. Mi objetivos es dar con una empresa que pueda brindarme un crecimiento constante y entornos dinámicos de aprendizaje, que me permitan crecer tanto personal como profesionalmente y poder contribuir al crecimiento tecnológico que tanto me apasiona</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmartinez123&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmartinez123" /> </p>
 
