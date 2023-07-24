@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Isaac Martinez</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQFg5fnXYN73cQ/profile-displaybackgroundimage-shrink_350_1400/0/1686102132065?e=1691625600&v=beta&t=m5iTvKMb0KDEhVn9OopcgbY5Q8oIIiWxX0Ec286ktts" alt="Banner">
+  <img src="https://i.ibb.co/TR59B6K/Full-Stack-Developer.png" alt="Banner">
 </p>
 
 <h4 align="center">Soy Isaac, un desarrollador Full-Stack apasionado por la tecnología y con un gran deseo de seguir aprendiendo en esta area. Desde que comencé en el mundo del desarrollo, mi enfoque ha sido adquirir la habilidad y capacidad para crear aplicativos que resuelvan problemas y satisfagan necesidades, esto es algo que me fascina y motiva profundamente.
